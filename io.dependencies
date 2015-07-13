@@ -2,15 +2,15 @@
 [
   {
     "remote":      "github",
-    "repository":  "armani-dev/android_kernel_xiaomi_armani",
+    "repository":  "InfinitiveOS-Devices/kernel_xiaomi_armani",
     "target_path": "kernel/xiaomi/armani",
-    "revision":    "cm-12.1"
+    "revision":    "io-1.0"
   },
   {
     "remote":      "github",
-    "repository":  "armani-dev/proprietary_vendor_xiaomi",
+    "repository":  "InfinitiveOS-Devices/proprietary_vendor_xiaomi",
     "target_path": "vendor/xiaomi",
-    "revision":    "cm-12.1"
+    "revision":    "io-1.0"
   },
   {
     "remote":      "github",
