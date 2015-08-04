@@ -49,3 +49,5 @@ cm.updater.uri=http://ota.randomdroids.com/api
 
 ro.product.model=armani
 ro.product.device=armani
+
+qemu.hw.mainkeys=0
