@@ -166,3 +166,6 @@ TARGET_USES_QCOM_WCNSS_QMI := true
 ADDITIONAL_DEFAULT_PROPERTIES += \
 ro.secure=0 \
 ro.adb.secure=0
+
+#Optimizations
+INFINITE=true
