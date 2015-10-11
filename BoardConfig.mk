@@ -143,6 +143,9 @@ BOARD_SEPOLICY_DIRS += device/xiaomi/armani/sepolicy
 # Time services
 BOARD_USES_QC_TIME_SERVICES := true
 
+#TWRP
+TW_THEME := portrait_hdpi
+
 # Vold
 BOARD_VOLD_EMMC_SHARES_DEV_MAJOR := true
 TARGET_USE_CUSTOM_LUN_FILE_PATH := /sys/devices/platform/msm_hsusb/gadget/lun0/file
