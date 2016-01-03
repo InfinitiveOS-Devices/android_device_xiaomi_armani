@@ -1,1 +1,3 @@
-add_lunch_combo cm_armani-userdebug
+add_lunch_combo io_armani-eng
+add_lunch_combo io_armani-user
+add_lunch_combo io_armani-userdebug
